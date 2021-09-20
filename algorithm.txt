@@ -1,0 +1,18 @@
+
+
+Step 1:Start
+
+
+
+Step 2:create an empty array for missing items
+
+
+
+step 3:loop over the elements within the range of the first and lat elements of the array
+
+
+
+step 4:compare the loop variable within the given array if the value is not present append it to the missing array
+
+
+step 5:End
